@@ -50,4 +50,13 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="1a372636-0c90-4e8b-a1bc-c8d9ca1a5968">
+    <name>ИмпортНастроекСВыбором</name>
+    <synonym>
+      <key>ru</key>
+      <value>Импорт настроек с выбором</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>

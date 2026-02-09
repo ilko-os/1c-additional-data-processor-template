@@ -2317,6 +2317,32 @@
         <representationInContextMenu>Auto</representationInContextMenu>
       </items>
       <items xsi:type="form:Button">
+        <name>ФормаИмпортироватьНастройкиВыборочно</name>
+        <id>242</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <extendedTooltip>
+          <name>ФормаИмпортироватьНастройкиВыборочноРасширеннаяПодсказка</name>
+          <id>243</id>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <commandName>Form.Command.ИмпортироватьНастройкиВыборочно</commandName>
+        <buttonImportance>Normal</buttonImportance>
+        <representation>Auto</representation>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <placementArea>UserCmds</placementArea>
+        <representationInContextMenu>Auto</representationInContextMenu>
+      </items>
+      <items xsi:type="form:Button">
         <name>ФормаОчиститьНастройки</name>
         <id>240</id>
         <visible>true</visible>
@@ -3274,6 +3300,27 @@
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>ОчиститьНастройки</name>
+      </handler>
+    </action>
+    <currentRowUse>Auto</currentRowUse>
+    <selectedRowsUse>Auto</selectedRowsUse>
+  </formCommands>
+  <formCommands>
+    <name>ИмпортироватьНастройкиВыборочно</name>
+    <title>
+      <key>ru</key>
+      <value>Импортировать настройки с выбором...</value>
+    </title>
+    <id>12</id>
+    <use>
+      <common>true</common>
+    </use>
+    <picture xsi:type="core:PictureRef">
+      <picture>StdPicture.OpenFile</picture>
+    </picture>
+    <action xsi:type="form:FormCommandHandlerContainer">
+      <handler>
+        <name>ИмпортироватьНастройкиВыборочно</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
