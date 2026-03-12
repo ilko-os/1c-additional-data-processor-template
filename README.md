@@ -1,5 +1,7 @@
 # Шаблон дополнительной обработки для конфигураций 1с на основе БСП
 
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1135541688.svg)](https://openyellow.org/grid?filter=top&repo=1135541688)
+
 ## Вступление
 
 Понравилась идея заполнения параметров в консоли запросов в проекте https://github.com/cpr1c/tools_ui_1c.
