@@ -1,10 +1,10 @@
-# Шаблон дополнительной обработки для конфигураций 1с на основе БСП
 
 [![Last release](https://img.shields.io/github/v/release/ilko-os/1c-additional-data-processor-template?label=last%20release&style=flat)](https://github.com/ilko-os/1c-additional-data-processor-template/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ilko-os/1c-additional-data-processor-template/total?style=flat)](https://github.com/ilko-os/1c-additional-data-processor-template/releases)
 [![License](https://img.shields.io/github/license/ilko-os/1c-additional-data-processor-template?style=flat)](https://github.com/ilko-os/1c-additional-data-processor-template/blob/main/LICENSE)
 [![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1135541688.svg)](https://openyellow.org/grid?filter=top&repo=1135541688)
 
+# Шаблон дополнительной обработки для конфигураций 1с на основе БСП
 
 ## Вступление
 
