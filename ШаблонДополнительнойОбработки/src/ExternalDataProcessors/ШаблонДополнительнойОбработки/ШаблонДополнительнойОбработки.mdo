@@ -59,4 +59,13 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="3ed0c14f-0128-42eb-8c74-0a1670ecbc01">
+    <name>РедактированиеТекста</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактирование текста</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>
