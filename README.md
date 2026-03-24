@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/ilko-os/1c-additional-data-processor-template?style=flat)](https://github.com/ilko-os/1c-additional-data-processor-template/blob/main/LICENSE)
 [![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1135541688.svg)](https://openyellow.org/grid?filter=top&repo=1135541688)
 
-# Шаблон дополнительной обработки для конфигураций 1с на основе БСП
+# Шаблон дополнительной обработки для конфигураций 1с на основе БСП с удобной системой хранения настроек
 
 ## Вступление
 
