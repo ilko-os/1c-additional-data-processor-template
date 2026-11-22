@@ -413,7 +413,6 @@
         </extInfo>
       </extendedTooltip>
       <commandName>Form.Command.КомандаОК</commandName>
-      <buttonImportance>Normal</buttonImportance>
       <representation>Auto</representation>
       <defaultButton>true</defaultButton>
       <autoMaxWidth>true</autoMaxWidth>

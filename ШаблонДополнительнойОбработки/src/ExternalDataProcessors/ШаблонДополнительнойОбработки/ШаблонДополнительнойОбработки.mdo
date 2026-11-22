@@ -13,7 +13,16 @@
     <value>Additional data processor template</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="71edb984-525c-4e11-9896-de835c509a7b"/>
-  <defaultForm>ExternalDataProcessor.ШаблонДополнительнойОбработки.Form.ФормаНастроек</defaultForm>
+  <defaultForm>ExternalDataProcessor.ШаблонДополнительнойОбработки.Form.ОсновнаяФорма</defaultForm>
+  <forms uuid="07004c38-2ef5-4cb9-b7a2-c040ec638fdd">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <forms uuid="83da5579-9e73-499c-8845-19633426c1de">
     <name>ФормаНастроек</name>
     <synonym>
@@ -64,6 +73,15 @@
     <synonym>
       <key>ru</key>
       <value>Редактирование текста</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="68fa7075-2e90-4e9b-a808-556302be7610">
+    <name>Форма4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма4</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>

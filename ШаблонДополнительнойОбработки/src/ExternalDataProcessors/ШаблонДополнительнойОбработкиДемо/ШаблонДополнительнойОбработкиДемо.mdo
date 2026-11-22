@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="91506ea2-c522-405a-b069-34f42a571875">
+  <producedTypes>
+    <objectType typeId="e2cd1e29-6038-425b-af8b-a6c8f37523c2" valueTypeId="6e11a9cc-161f-4e75-bf04-fc02cc8bf751"/>
+  </producedTypes>
+  <name>ШаблонДополнительнойОбработкиДемо</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблон дополнительной обработки (демо)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Additional data processor template (demo)</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="71edb984-525c-4e11-9896-de835c509a7b"/>
+  <defaultForm>ExternalDataProcessor.ШаблонДополнительнойОбработкиДемо.Form.ОсновнаяФорма</defaultForm>
+  <forms uuid="07004c38-2ef5-4cb9-b7a2-c040ec638fdd">
+    <name>ОсновнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="83da5579-9e73-499c-8845-19633426c1de">
+    <name>ФормаНастроек</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма настроек</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5f4b2f24-10c8-4129-be50-2f682f073c6c">
+    <name>РедактированиеТипа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактирование типа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="b8437d93-a454-40b4-b8d5-835fb858ff78">
+    <name>ПодборВСписок</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подбор в список</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="26aabf5f-ad22-4db3-974c-57f389b8a947">
+    <name>РедактированиеТаблицы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактирование таблицы</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="1a372636-0c90-4e8b-a1bc-c8d9ca1a5968">
+    <name>ИмпортНастроекСВыбором</name>
+    <synonym>
+      <key>ru</key>
+      <value>Импорт настроек с выбором</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="3ed0c14f-0128-42eb-8c74-0a1670ecbc01">
+    <name>РедактированиеТекста</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактирование текста</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="68fa7075-2e90-4e9b-a808-556302be7610">
+    <name>Форма4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма4</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="d20a1ac8-b05c-4bad-884c-5abe7f98841c">
+    <name>Форма5</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма5</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
